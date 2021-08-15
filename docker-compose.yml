@@ -11,7 +11,7 @@ services:
         volumes:
             - ${CONFIG}/web:/config:Z
             - ${CONFIG}/transcripts:/usr/share/jitsi-meet/transcripts:Z
-            - /home/mano/.jitsi-ui/jitsi-meet:/usr/share/jitsi-meet
+            - ./arimac-meet-ui/web-customization:/usr/share/jitsi-meet
         environment:
             - ENABLE_COLIBRI_WEBSOCKET
             - ENABLE_FLOC
