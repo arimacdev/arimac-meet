@@ -1,4 +1,3 @@
-
 # Arimac Meet on Docker
 
 We have implemented **[Arimac Meet](https://meet.arimac.digital)** on Docker using Jitsi Open Source project.
@@ -257,18 +256,19 @@ sudo certbot --nginx -d meet.arimac.digital -d www.meet.arimac.digital
 
 ## Downloads
 
-| Latest beta release | [![release](https://img.shields.io/badge/beta-latest-green.svg)](https://github.com/jitsi/jitsi-meet/releases/latest) |
-|---|---|
+**Latest beta release**  [![release](https://img.shields.io/badge/beta-latest-green.svg)](https://github.com/jitsi/jitsi-meet/releases/latest) 
+
 
 We have released stable beta versions for both Windows & Linux operating systems. macOS supported version will also be available soon:
 
-| [![Windows App](https://gitlab.com/mr_arimac/arimac-meet/-/raw/dev/resources/buttons/win-button.png =200x75)](https://arimaccommon.blob.core.windows.net/arimac-meet/arimac_meet_setup.exe)                         [![Linux App](https://gitlab.com/mr_arimac/arimac-meet/-/raw/dev/resources/buttons/linux-button.png =200x75)](https://arimaccommon.blob.core.windows.net/arimac-meet/arimac_meet_package-x86_64.AppImage)  [![Linux App](https://gitlab.com/mr_arimac/arimac-meet/-/raw/dev/resources/buttons/mac-button.png =200x75)](#)         
-|-------------|-------------|-------------|
+[<img src="https://gitlab.com/mr_arimac/arimac-meet/-/raw/dev/resources/buttons/win-button.png" height="70">](https://arimaccommon.blob.core.windows.net/arimac-meet/arimac_meet_setup.exe)   [<img src="https://gitlab.com/mr_arimac/arimac-meet/-/raw/dev/resources/buttons/linux-button.png" height="70">](https://arimaccommon.blob.core.windows.net/arimac-meet/arimac_meet_package-x86_64.AppImage)   [<img src="https://gitlab.com/mr_arimac/arimac-meet/-/raw/dev/resources/buttons/mac-button.png" height="70">](#)
 
-These builds are tested and secured.
+
+_These builds are tested and secured._
 
 ## Desktop Application
 If you wish to imporove our Arimac Meet Desktop application, you can simply hack following repository:
+
 [https://gitlab.com/mr_arimac/arimac-meet-desktop-app](https://gitlab.com/mr_arimac/arimac-meet-desktop-app)
 
 ## TODO
@@ -288,14 +288,9 @@ If you like my work and want to support the development of the project, now you 
 [![Buy Me A Coffee](https://camo.githubusercontent.com/0f3e240e3bc1e7876ec84f7d3e224eb01144293e5a74e7f53df732d656bfc325/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70616e722f696d6167652f75706c6f61642f76313537393337343730352f6275796d6561636f666665655f793679766f762e737667)](https://manoranjana.me)
 
   
-
 ## License
 
-  
-
 ### Apache License 2.0
-
-  
 
 A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
