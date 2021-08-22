@@ -281,12 +281,6 @@ If you wish to imporove our Arimac Meet Desktop application, you can simply hack
 
 If you spot any bugs, please use [Gitlab Issues](https://gitlab.com/mr_arimac/arimac-meet/-/issues) or if you want to add a new feature directly [Fork](https://gitlab.com/mr_arimac/arimac-meet/-/forks/new) and push to the main repo.
 
-## Sponsoring
-
-If you like my work and want to support the development of the project, now you can! Just:
-
-[![Buy Me A Coffee](https://camo.githubusercontent.com/0f3e240e3bc1e7876ec84f7d3e224eb01144293e5a74e7f53df732d656bfc325/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70616e722f696d6167652f75706c6f61642f76313537393337343730352f6275796d6561636f666665655f793679766f762e737667)](https://manoranjana.me)
-
   
 ## License
 
